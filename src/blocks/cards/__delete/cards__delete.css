@@ -1,4 +1,4 @@
-.cards__delete{
+.cards__delete {
   margin: 0;
   padding: 0;
   position: absolute;
@@ -6,11 +6,11 @@
   min-height: 19px;
   min-width: 18px;
   border: none;
-  background: transparent url('../../../images/trash.svg');
+  background: transparent url("../../../images/trash.svg");
   transition: all 0.4s ease-in-out;
 }
 
-.cards__delete:hover{
+.cards__delete:hover {
   opacity: 0.6;
   cursor: pointer;
 }

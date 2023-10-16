@@ -1,4 +1,4 @@
-.profile__name{
+.profile__name {
   margin: 0;
   padding: 0;
   text-overflow: ellipsis;
@@ -10,16 +10,16 @@
   font-weight: 500;
 }
 
-@media screen and (max-width: 929px){
-  .profile__name{
+@media screen and (max-width: 929px) {
+  .profile__name {
     max-width: 205px;
     font-size: 29px;
     line-height: 36px;
   }
 }
 
-@media screen and (max-width: 644px){
-  .profile__name{
+@media screen and (max-width: 644px) {
+  .profile__name {
     max-width: 189px;
     text-align: center;
     font-size: 27px;

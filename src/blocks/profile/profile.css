@@ -1,4 +1,4 @@
-.profile{
+.profile {
   margin: 0 auto 45px auto;
   padding: 0;
   max-width: 880px;
@@ -7,14 +7,14 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 929px){
-  .profile{
+@media screen and (max-width: 929px) {
+  .profile {
     max-width: 600px;
   }
 }
 
-@media screen and (max-width: 644px){
-  .profile{
+@media screen and (max-width: 644px) {
+  .profile {
     max-width: 282px;
     flex-direction: column;
     margin: 0 auto 36px auto;

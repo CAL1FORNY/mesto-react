@@ -1,4 +1,4 @@
-.header{
+.header {
   margin: 45px auto 40px auto;
   padding: 0;
   max-width: 880px;
@@ -6,13 +6,13 @@
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 929px){
+@media screen and (max-width: 929px) {
   .header {
     max-width: 600px;
   }
 }
 
-@media screen and (max-width: 644px){
+@media screen and (max-width: 644px) {
   .header {
     margin: 28px auto 42px auto;
     min-width: 100%;
